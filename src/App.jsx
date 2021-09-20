@@ -30,6 +30,7 @@ const App = () => {
       <Tokenomics data={landingPageData.Tokenomics} />
       <Roadmap data={landingPageData.Roadmap} />
       <Team data={landingPageData.Team} />
+      <Team data={landingPageData.DecentralizedApps} />
       <Footer></Footer>
     </div>
   )

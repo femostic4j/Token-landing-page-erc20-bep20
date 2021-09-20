@@ -7,7 +7,7 @@ export const Contact = (props) => {
             <div className='row'>
               <div className='social'>
               
-                Token contract address <a id="contractaddress" href="https://bscscan.com/address/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82">0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82</a>
+                Token contract address <a id="contractaddress" href="https://kovan.etherscan.io/address/0x7Fb408d51cC5E2F96C15042dC0C7Cab86dA8d50c">0x7Fb408d51cC5E2F96C15042dC0C7Cab86dA8d50c</a>
                 <br></br>
                 Official email address thetoken@gmail.com
                 <br></br>

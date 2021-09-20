@@ -1,8 +1,9 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Xcoin Main Page",
+        "paragraph": "The Xcoin has a total supply of 1 million token."
+        
 
     },
     "Tokenomics": [{
@@ -39,23 +40,23 @@
 
                     ],
     "Team": [{
-            "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+            "img": "img/team/01.png",
+            "name": "Omoshona Femi",
+            "job": "Software Engineer"
         },
         {
-            "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "img": "img/team/02.png",
+            "name": "Omoshona Femi",
+            "job": "Software Engineer"
         }, {
-            "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
+            "img": "img/team/03.png",
+            "name": "Omoshona Femi",
+            "job": "Software Engineer"
         },
         {
-            "img": "img/team/04.jpg",
-            "name": "Karen Doe",
-            "job": "Project Manager"
+            "img": "img/team/04.png",
+            "name": "Omoshona Femi",
+            "job": "Software Engineer"
         }
     ],
     "Contact": {
